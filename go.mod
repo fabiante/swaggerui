@@ -1,4 +1,4 @@
-module github.com/DEXPRO-Solutions-GmbH/swaggerui
+module github.com/fabiante/swaggerui
 
 go 1.20
 
